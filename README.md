@@ -1,5 +1,5 @@
 - Hi, I’m Fabrice Kurmann @fkurmann
-- Computer science and bioinformatics double major at UC Santa Cruz
+- Graduate Student in CS at UC Santa Cruz
 - This account is home to all my personal projects and selected school projects
 
 <!---
